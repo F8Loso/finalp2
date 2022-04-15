@@ -1,0 +1,44 @@
+
+S
+java:S1948Q"'Make "users" transient or serializable.(ˆñ–ƒRCRITICALZ
+CODE_SMELL
+_
+java:S11354"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿRINFOZ
+CODE_SMELL
+{
+java:S2786:"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(»ççÅRMINORZ
+CODE_SMELL
+c	java:S125D"<This block of commented-out lines of code should be removed.(œÜÍ3RMAJORZ
+CODE_SMELL
+i	java:S125W"<This block of commented-out lines of code should be removed.(ÇûŽÐÿÿÿÿÿRMAJORZ
+CODE_SMELL
+_
+java:S1135X"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿRINFOZ
+CODE_SMELL
+Y
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒRMINORZ
+CODE_SMELL
+h
+java:S1128"@Remove this unused import 'javax.persistence.SequenceGenerator'.(ï™›9RMINORZ
+CODE_SMELL
+h
+java:S1128"?Remove this unused import 'javax.persistence.UniqueConstraint'.(ô¤ôõRMINORZ
+CODE_SMELL
+q
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(þ‘‹„RMINORZ
+CODE_SMELL
+t
+java:S1128"FRemove this unused import 'com.revature.p2.myp2.model.Dialect.Status'.(ƒº‚ŽúÿÿÿÿRMINORZ
+CODE_SMELL
+j
+java:S1128"BRemove this unused import 'com.revature.p2.myp2.repo.AccountRepo'.(¥äëRMINORZ
+CODE_SMELL
+k
+java:S1128"BRemove this unused import 'com.revature.p2.myp2.serv.AccountServ'.(€ÅØRMINORZ
+CODE_SMELL
+S
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙRMINORZ
+CODE_SMELL
+S
+java:S1128 "*Remove this unused import 'lombok.Setter'.(ó¸çµRMINORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+
+o
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(³‰þ©RCRITICALZVULNERABILITY
+f	java:S106"9Replace this use of System.out or System.err by a logger.(«¦ûíûÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ðƒ¨ªRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ø­åÆþÿÿÿÿRMAJORZ
+CODE_SMELL
+t
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(–  æûÿÿÿÿRCRITICALZVULNERABILITY
+o
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(èëšÖRCRITICALZVULNERABILITY

@@ -1,0 +1,23 @@
+package com.revature.finalp1.repo;
+
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+import com.revature.finalp1.model.Users;
+
+
+
+@Repository
+public interface UsersRepo extends JpaRepository<Users, Integer> {
+
+	public Users findByUsernameAndPassword(String username, String password);
+
+	public Users findByUsername(String username);
+
+	public Users getById(Integer id);
+
+}
+//    public Log add(Log id);
+    
+
+

@@ -1,0 +1,25 @@
+package com.revature.p2.myp2.serv;
+
+import java.util.List;
+
+import com.revature.p2.myp2.model.Account;
+import com.revature.p2.myp2.model.Astatement;
+import com.revature.p2.myp2.model.Tbr;
+import com.revature.p2.myp2.model.Transactions;
+import com.revature.p2.myp2.model.User;
+
+public interface AccountServ {
+    List<Account> findAll();
+    Account save(Account account);
+    Transactions sendMoney(
+            Tbr transferBalanceRequest
+    );
+    Astatement getStatement(String accountNum);
+	
+    void deleteById(long accountsId);
+    
+    public void updateAccount(long accountsId, Account Accounts);
+	
+    void save(long accountsId, Account accounts);
+	
+}

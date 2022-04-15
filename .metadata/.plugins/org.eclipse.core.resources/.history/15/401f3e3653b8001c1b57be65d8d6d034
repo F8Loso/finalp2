@@ -1,0 +1,38 @@
+package com.revature.p2.myp2.serv;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.context.annotation.Primary;
+import org.springframework.data.repository.CrudRepository;
+import com.revature.p2.myp2.model.Account;
+
+
+@Primary
+public interface AccountServ extends CrudRepository<Account, Long > {
+	
+	
+    public List<Account> findAll();
+//    @SuppressWarnings("unchecked")
+//	Account save(Account account);
+//    Transactions sendMoney(
+//            Tbr transferBalanceRequest
+//    );
+//    Astatement getStatement(String accountNum);
+	
+    void deleteById(long accountsId);
+    
+    public void updateAccount(long accountsId, Account Accounts);
+	
+    void save(long accountsId, Account accounts);
+    public void deleteById(Long id);
+    public long count();
+    public <S extends Account> Iterable<S> saveAll(Iterable<S> entities);
+    public Optional<Account> findById(Long id);
+    public boolean existsById(Long id);
+    public void delete(Account entity);
+    public void deleteAll() ;
+    public void deposit(long accountsId);
+    
+    
+}

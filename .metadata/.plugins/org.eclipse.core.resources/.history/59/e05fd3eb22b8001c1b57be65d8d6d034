@@ -1,0 +1,23 @@
+package com.revature.p2.myp2.serv;
+
+
+import com.revature.p2.myp2.model.Account;
+import com.revature.p2.myp2.model.Transactions;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.Date;
+import java.util.List;
+
+@Repository
+public interface TransServ extends CrudRepository<Transactions, Long> {
+
+    List<Transactions> findByDateBetweenAndType(Date StartOfDay, Date endOfDay, int type);
+    
+    public void deposit(double amount);
+    public void withdraw(double amount);
+    public void transfer(double amount, Account account); 
+    
+
+}

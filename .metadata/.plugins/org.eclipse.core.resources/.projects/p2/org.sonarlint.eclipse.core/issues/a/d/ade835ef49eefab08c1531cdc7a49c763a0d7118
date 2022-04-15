@@ -1,0 +1,23 @@
+
+|	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à’˜‡HÿvRMINORZ
+CODE_SMELL
+w
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(£ÞñÞüÿÿÿÿH€wRCRITICALZVULNERABILITY
+f	java:S125""<This block of commented-out lines of code should be removed.(ý‰ß}HwRMAJORZ
+CODE_SMELL
+b
+java:S11356"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHˆwRINFOZ
+CODE_SMELL
+w
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(µÝúÂúÿÿÿÿH‰wRCRITICALZVULNERABILITY
+a
+java:S1128"5Remove this unused import 'javax.transaction.Status'.(“´Û²HŠwRMINORZ
+CODE_SMELL
+b
+java:S1135<"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHŒwRINFOZ
+CODE_SMELL
+`
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿHwRMINORZ
+CODE_SMELL
+r
+java:S4684b"@Replace this persistent entity with a simple POJO or DTO object.(à’˜‡HwRCRITICALZVULNERABILITY

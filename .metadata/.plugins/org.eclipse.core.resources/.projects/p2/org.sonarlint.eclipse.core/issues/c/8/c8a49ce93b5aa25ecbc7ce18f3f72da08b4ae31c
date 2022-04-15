@@ -1,0 +1,12 @@
+
+c	java:S125 "<This block of commented-out lines of code should be removed.(…ƒòDRMAJORZ
+CODE_SMELL
+i	java:S125""<This block of commented-out lines of code should be removed.(Ò¡óšûÿÿÿÿRMAJORZ
+CODE_SMELL
+d	java:S125%"<This block of commented-out lines of code should be removed.(Ö¬ıÕRMAJORZ
+CODE_SMELL
+]
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„şúçRMINORZ
+CODE_SMELL

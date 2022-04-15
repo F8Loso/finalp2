@@ -1,0 +1,26 @@
+package com.revature.p2.myp2.serv;
+
+
+import com.revature.p2.myp2.model.AccountTrans;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.Date;
+import java.util.List;
+
+/**
+ * Created by IntelliJ IDEA.
+ * Project : springboot-bank-account
+ * User: hendisantika
+ * Email: hendisantika@gmail.com
+ * Telegram : @hendisantika34
+ * Date: 2019-04-17
+ * Time: 07:05
+ */
+@Repository
+public interface TransServ extends CrudRepository<AccountTrans, Long> {
+
+    List<AccountTrans> findByDateBetweenAndType(Date StartOfDay, Date endOfDay, int type);
+
+}

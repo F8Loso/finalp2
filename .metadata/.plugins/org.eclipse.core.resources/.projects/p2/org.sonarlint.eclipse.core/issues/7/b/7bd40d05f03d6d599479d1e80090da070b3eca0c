@@ -1,0 +1,51 @@
+
+_
+java:S1135!"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135("2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135."2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+t
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(…­‹•ÿÿÿÿÿRCRITICALZVULNERABILITY
+_
+java:S11354"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+t
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(ßó ÐÿÿÿÿÿRCRITICALZVULNERABILITY
+_
+java:S1135?"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135E"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135K"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+t
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—ÖùÿÿÿÿRMINORZ
+CODE_SMELL
+g
+java:S1128"9Remove this unused import 'org.springframework.ui.Model'.(ê†ýÿÿÿÿRMINORZ
+CODE_SMELL
+|
+java:S1128	"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæéRMINORZ
+CODE_SMELL
+€
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™ÐÿûÿÿÿÿRMINORZ
+CODE_SMELL
+w
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿRMINORZ
+CODE_SMELL
+„
+java:S1128"[Remove this unused import 'org.springframework.web.servlet.mvc.support.RedirectAttributes'.(ìçÚËRMINORZ
+CODE_SMELL
+w
+java:S1128"NRemove this unused import 'org.springframework.web.servlet.view.RedirectView'.(ñÎ²ÒRMINORZ
+CODE_SMELL
+~	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…­‹•ÿÿÿÿÿRMINORZ
+CODE_SMELL
+~	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßó ÐÿÿÿÿÿRMINORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+€
+java:S2786,"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(ªêŸ³úÿÿÿÿRMINORZ
+CODE_SMELL
+_
+java:S1135f"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿRINFOZ
+CODE_SMELL
+d	java:S125o"<This block of commented-out lines of code should be removed.(¨®åRMAJORZ
+CODE_SMELL
+i	java:S125q"<This block of commented-out lines of code should be removed.(ÆØÎ¤þÿÿÿÿRMAJORZ
+CODE_SMELL
+Z
+java:S1135r"2Complete the task associated to this TODO comment.(ÒÙÈŒRINFOZ
+CODE_SMELL
+}
+java:S1128"TRemove this unused import 'com.revature.p2.myp2.model.Transactions.TransactionType'.(©ŒýÁRMINORZ
+CODE_SMELL
+^
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›RMINORZ
+CODE_SMELL

@@ -1,0 +1,55 @@
+
+€	java:S116"YRename this field "UserRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­õªRMINORZ
+CODE_SMELL
+_
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(¨ÓÊ›RMAJORZ
+CODE_SMELL
+_
+java:S1135"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135 "2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135&"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135,"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S11352"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S11358"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135>"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+i	java:S125C"<This block of commented-out lines of code should be removed.(ß—þõøÿÿÿÿRMAJORZ
+CODE_SMELL
+_
+java:S1135D"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135J"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135P"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135V"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135\"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+_
+java:S1135b"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+~	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëˆÝ²ûÿÿÿÿRMINORZ
+CODE_SMELL
+~	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õýÙÇøÿÿÿÿRMINORZ
+CODE_SMELL
+^
+java:S3655!"7Call "Optional#isPresent()" before accessing the value.(Öº¼æýÿÿÿÿRMAJORZBUG
